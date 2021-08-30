@@ -1,0 +1,349 @@
+.navbar-brand h1 {
+	display: inline;
+	font-size:30px;
+	font-weight: bold;
+	color:black;
+	text-align: left;
+	font-family: proxima-nova, sans-serif;
+}
+
+.logo_image{
+	float: left;
+	width:100px;
+	height:100px;
+	margin:5px 20px 5px 5px;
+}
+.resume{
+	text-align:center;
+	font-family: proxima-nova, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	margin-top:100px;
+}
+.resume h1{
+	font-size:35px;
+	font-weight:bold;
+}
+.experience{
+	margin-top: 100px;
+}
+
+.experience span{
+	font-family: proxima-nova, sans-serif;
+	margin-left: 200px;
+	font-size:25px;
+	font-weight:800;
+}
+.experience a{
+	margin-left: 370px;
+	margin-bottom: 10px;
+}
+body{
+	z-index: 0;
+	background-color: #E6DACE;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.container-box{
+	float: center;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top: 30px;
+	height:300px;
+	background-color: white;
+	box-shadow: -3px 3px 10px 3px #8F8A89;
+}
+.container-box-large{
+	float: center;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top: 30px;
+	height:370px;
+	background-color: white;
+	box-shadow: -3px 3px 10px 3px #8F8A89;
+}
+.container-box-wider{
+	margin-left: 150px;
+	margin-right: 150px;
+	float: center;
+	margin-top: 30px;
+	height:400px;
+	background-color: white;
+	box-shadow: -3px 3px 10px 3px #8F8A89;
+}
+.container-box-long{
+	margin: 50px 150px 50px 150px;
+}
+.time{
+	color: #0050FF;
+	font-family: proxima-nova, sans-serif;
+	font-style: normal;
+	padding-top: 60px;
+	margin-left:50px;
+	font-weight: 600;
+	font-size: 20px;
+}
+.position{
+	padding-top: 10px;
+	font-size: 14px;
+	margin-left:50px;
+	font-weight: bold;
+	color:black;
+	font-family: proxima-nova, sans-serif;
+}
+.company{
+	font-size: 14px;
+	margin-left:50px;
+	margin-top: 10px;
+	font-family: proxima-nova, sans-serif;
+	font-weight: lighter;
+}
+.coursework{
+	padding-top: 70px;
+	padding-right: 15px;
+	font-size: 13px;
+	float: right;
+}
+.skillset{
+	margin-top: 25px;
+	font-size: 18px;
+	margin-left:10px;
+	font-weight: bold;
+	font-family: proxima-nova, sans-serif;
+}
+.place{
+	height: 1px;
+}
+.skillset h4{
+	font-size: 17px;
+	font-weight: bold;
+}
+.copyright{
+	float: left;
+	padding-top: 10px
+}
+.call{
+	text-align: center;
+	float: right;
+	font-weight: bold;
+
+}
+.write{
+	text-align: center;
+	float: right;
+	font-weight: bold;
+	margin-left: 40px;
+}
+.text-center{
+	padding-top: 10px;
+}
+.write-center{
+	padding-top: 10px;
+	font-size: 14px;
+	font-weight: normal;
+}
+.call-center{
+	padding-top: 10px;
+	font-size: 14px;
+	font-weight: normal;
+}
+.panel-footer{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color: #222 !important;
+}
+.panel-footer div{
+	margin-bottom: 20px;
+}
+.introduction{
+	margin-top: 30px;
+	text-align: center;
+}
+.link{
+	padding-left: 30px;
+	color:black;
+}
+.col-8{
+	z-index: 1;
+	margin-left: 500px;
+	height: 800px;
+	background-color: white;
+	padding-right:0px;
+}
+
+.container1{
+	background-color: #E6DACE;
+	z-index: 0;
+	margin: 0px;
+	padding: 0px;
+}
+.innerbox{
+	z-index: 2;
+	position: absolute;
+	height: 500px;
+	width: 900px;
+	top: 250px;
+	left: 200px;
+	background-color: white;
+}
+.left{
+	display: inline-block;
+	width: 350px;
+	height:500px;
+	background-color: #F4ECE6;
+	box-shadow: -3px 3px 8px 3px #8F8A89;
+}
+.right{
+	float: right;
+	width: 550px;
+	height:500px;
+	color:black;
+	background-color: white;
+}
+.right h1{
+	padding-left: 20px;
+	font-size: 70px;
+	font-weight: bold;
+}
+.right p{
+	padding-left: 20px;
+	font-size:26px;
+	margin-top:20px;
+}
+.right a{
+	margin-left: 30px;
+	margin-top: 20px;
+}
+textarea{
+	resize: vertical;
+	overflow: auto;
+	height: auto;
+}
+.me{
+	height:50%;
+	margin-left:50px;
+	margin-top:20px;
+	border-radius: 50%;
+}
+.left h2{
+	margin-top: 30px;
+	text-align: center;
+}
+hr{
+	color:blue;
+	width: 30%;
+}
+.icon{
+	height:30px;
+	width:30px;
+}
+.socialmedia{
+	margin-left: 70px;
+}
+.socialmedia a{
+	height:30px;
+	width:30px;
+}
+a:hover{
+	text-decoration: none;
+}
+.wrap{
+	margin-left: 30px;
+}
+.right .intro{
+	margin-top: 40px;
+	font-size: 16px;
+	width:80%;
+}
+.credential{
+	float: right;
+	display: inline-block;
+	padding-right: 10px; 
+}
+.title{
+	padding-left: 10px;
+	padding-bottom: 20px;
+	font-weight: bold;
+	font-family: proxima-nova, sans-serif;
+}
+
+.box{
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	background-color: #1963E0;
+	
+}
+.resume h1{
+	display: inline-block;
+	font-weight: 700;
+}
+nav{
+	height: 120px;
+	background-color: white;
+}
+ul{
+	color:black;
+}
+.description{
+	padding-top: 70px;
+	width:400px;
+	padding-right: 15px;
+	font-size: 13px;
+	float: right;
+}
+.description li{
+	margin-bottom: 15px;
+}
+.description p{
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-left: 30px;
+}
+.description2{
+	padding-top: 20px;
+	width:400px;
+	padding-right: 15px;
+	padding-left: 50px; 
+	font-size: 13px;
+	text-align: left;
+}
+.img{
+	margin-right: 20px;
+}
+.img2{
+	margin-right: 20px;
+}
+.img2 img{
+	height: 50%;
+	width: 40%;
+}
+.float-right{
+	padding-bottom: 30px;
+}
+.container-box-small{
+	float: center;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top: 30px;
+	height:60px;
+	background-color: #F7F8FB;
+	box-shadow: -3px 3px 8px 3px #8F8A89;
+}
+
+.img-hover:hover {
+	-webkit-transition: all .3s; /* Safari and Chrome */
+  	-moz-transition: all .3s; /* Firefox */
+  	-o-transition: all .3s; /* IE 9 */
+  	-ms-transition: all .3s; /* Opera */
+  	transition: all .3s;
+  	position:relative;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform:translateZ(0) scale(1.03); /* Safari and Chrome */
+    -moz-transform:scale(1.03); /* Firefox */
+    -ms-transform:scale(1.03); /* IE 9 */
+    -o-transform:translatZ(0) scale(1.03); /* Opera */
+    transform:translatZ(0) scale(1.03);
+}
+  
